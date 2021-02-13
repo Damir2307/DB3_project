@@ -1,4 +1,13 @@
-  ![alt text](logo.png "Title")
+<div id="container">![alt text](logo.png "Title")</div>
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
