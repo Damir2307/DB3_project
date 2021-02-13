@@ -1,10 +1,3 @@
-<style>
-body{
-  color:red;
-  }
-</style>
-
-
 <h1 align="center"> <img src="logo.png"> </h1>
 
 
@@ -12,7 +5,7 @@ body{
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
-[Site](www.google.com)
+<a>Link</a>
 ---
 
 
