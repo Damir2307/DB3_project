@@ -1,6 +1,4 @@
-![alt text](logo.png "Title")
-
-<img src="logo.png">
+<img align="center" src="logo.png">
 -
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
