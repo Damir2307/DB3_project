@@ -5,7 +5,7 @@
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
-<a>Link</a>
+<h2 align="center"> <a>Link</a> </h2>
 ---
 
 
