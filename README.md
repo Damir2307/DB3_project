@@ -5,7 +5,7 @@
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
-[Site](www.google.com)
+<h1 align="center"> [Site](www.google.com) </h1>
 -
 
 ## About Project
