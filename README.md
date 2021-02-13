@@ -1,12 +1,12 @@
 <h1 align="center"> <img src="logo.png"> </h1>
--
+
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
 [Site](www.google.com)
--
+
 
 ## About Project
 
