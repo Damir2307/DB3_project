@@ -1,4 +1,4 @@
-<center> ![alt text](logo.png "Title") </center>
+<p style="text-align: center;"> ![alt text](logo.png "Title") </p>
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
