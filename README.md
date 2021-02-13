@@ -1,4 +1,4 @@
-<img align="center" src="logo.png">
+<h1 align="center"> <img src="logo.png"> </h1>
 -
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
