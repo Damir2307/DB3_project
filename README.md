@@ -1,11 +1,13 @@
 ![alt text](logo.png "Title")
+
+<img src="logo.png">
 -
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
 ![AppVeyor](https://img.shields.io/badge/madeby-Byte-red)
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
-<h1 align="center"> [Site](www.google.com) </h1>
+[Site](www.google.com)
 -
 
 ## About Project
