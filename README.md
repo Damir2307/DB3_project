@@ -1,7 +1,7 @@
 ![alt text](logo.png "Title")
 
 ![Spiget Rating](https://img.shields.io/spiget/rating/9089)
-![AppVeyor](https://img.shields.io/badge/<made by>-Byte-red)
+![AppVeyor](https://img.shields.io/badge/<madeby>-Byte-red)
 
 We want to make an app where people can book playgrounds. The goal of the project is to save people's time and resources. We offer an application in which you can book a sports field online at a certain hour. Additionally, the project will have sports sections for self-development. And you can make an appointment with the coach at a certain hour. We offer a convenient table and information about the object, such as " whether there is a shower, parking, etc.". And we offer a convenient map that shows its location. For example there is such a problem people cannot know what time is busy what time is free they should call.They have to call to find out if the time is busy, it takes time, even sometimes the operators can be busy and it will be convenient for the owner of the sports ground to accept orders via the Internet In 5 minutes, you will choose the closest one that meets your requirements without calling the operators.We think if this application grows, a lot of people will go in for sports.In our country there is no analogue of such an application.
 
