@@ -6,9 +6,7 @@
 ![AppVeyor](https://img.shields.io/badge/Dev-JavaEE-blue)
 
 [Site](www.google.com)
-
---
-
+---
 ## About Project
 
 #### Goal
