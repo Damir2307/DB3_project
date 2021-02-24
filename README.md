@@ -76,7 +76,11 @@ We wrote the backend only in php. We want something new and decided that we woul
    &nbsp;&nbsp;&nbsp;13.Can I see the working hours of the sport playgrounds?<br>
    &nbsp;&nbsp;&nbsp;14.Is it possible to find the best rated sport playground?<br>
    &nbsp;&nbsp;&nbsp;15.Will the company providing the platform be able to add a video review?<br>
- <hr>
+ 
+ <br>
+ 
+ ### UML diagram:
+    ![alt text](https://github.com/Damir2307/DB3_project/blob/main/Mandarin-UseCase-UML.png)
 
 
 
