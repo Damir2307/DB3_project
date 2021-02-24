@@ -7,9 +7,7 @@
 
 <h2 align="center"> <a href="#"> Link </a> </h2>
 
-
-
-## About Project
+## Phase-2.About Project
 
 #### Opportunities
 
@@ -59,3 +57,25 @@ In the future, if the project is successful, we want to do it on android and ios
 
 
 We wrote the backend only in php. We want something new and decided that we would write in JavaEE.Why JavaEE,not php? While comparing the Java vs PHP performance, Java is clearly a winner as it is faster and efficient than PHP to write applications.To database we chose MySQL.Why MySQL?MySQL comes with the advantage of unmatched flexibility that facilitates efficient management of deeply embedded applications, even in gigantic data centers that stack tremendous amounts of mission-critical information.
+
+## Phase-3.Project Use-Case diagram and questions over the data
+
+### General questions:
+   &nbsp;&nbsp;&nbsp;1.Can a customer leave a review and see reviews from other users?(relation between user,playground comments)<br>
+   &nbsp;&nbsp;&nbsp;2.Will the site be able to provide information about the object about its comfort of additional services?(relation playground between specifications)<br>
+   &nbsp;&nbsp;&nbsp;3.Will the client be able to safely and quickly use the playground at a specific time?(relation between user,playground,bronPlayground)<br>
+   &nbsp;&nbsp;&nbsp;4.Can company's user quickly add objects and change its information?(relation between companyUser and playground/sportSection)<br>
+   &nbsp;&nbsp;&nbsp;5.Is it possible to enroll in the desired coach?(relation between bronCoach,sportSection,coach)<br>
+   &nbsp;&nbsp;&nbsp;6.Is it possible to search sport playgrounds  by category?(relation between sport,playground,sportsection)<br>
+   &nbsp;&nbsp;&nbsp;7.Can a client save their favorite sites to favorites? (Relation between user, saved, playground)<br>
+   &nbsp;&nbsp;&nbsp;8.Is it possible to see the rental of inverters in the site?<br>
+   &nbsp;&nbsp;&nbsp;9.Can a client search for sports grounds at an affordable price?<br>
+   &nbsp;&nbsp;&nbsp;10.Can the client find the nearest sport playground?<br>
+   &nbsp;&nbsp;&nbsp;11.How is confirmation done?<br>
+   &nbsp;&nbsp;&nbsp;12.Where can I contact if my reservation is not fulfilled?<br>
+   &nbsp;&nbsp;&nbsp;13.Can I see the working hours of the sport playgrounds?<br>
+   &nbsp;&nbsp;&nbsp;14.Is it possible to find the best rated sport playground?<br>
+   &nbsp;&nbsp;&nbsp;15.Will the company providing the platform be able to add a video review?<br>
+
+
+
