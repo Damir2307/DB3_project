@@ -81,6 +81,9 @@ We wrote the backend only in php. We want something new and decided that we woul
  
  ### UML diagram:
    ![alt text](https://github.com/Damir2307/DB3_project/blob/main/Mandarin-UseCase-UML.png "UML")
-
+ 
+ ### Dataset for the project:
+ &nbsp;&nbsp;&nbsp;https://docs.google.com/spreadsheets/d/1qF9-MWIKyzAC7-g0pHNyzp1sHV_JRet9VzpiMORbUsE/edit#gid=2085233290
+ 
 
 
