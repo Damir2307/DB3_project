@@ -80,7 +80,7 @@ We wrote the backend only in php. We want something new and decided that we woul
  <br>
  
  ### UML diagram:
-    ![alt text](https://github.com/Damir2307/DB3_project/blob/main/Mandarin-UseCase-UML.png)
+   ![alt text](https://github.com/Damir2307/DB3_project/blob/main/Mandarin-UseCase-UML.png "UML")
 
 
 
