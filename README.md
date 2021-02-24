@@ -61,6 +61,7 @@ We wrote the backend only in php. We want something new and decided that we woul
 ## Phase-3.Project Use-Case diagram and questions over the data
 
 ### General questions:
+<hr>
    &nbsp;&nbsp;&nbsp;1.Can a customer leave a review and see reviews from other users?(relation between user,playground comments)<br>
    &nbsp;&nbsp;&nbsp;2.Will the site be able to provide information about the object about its comfort of additional services?(relation playground between specifications)<br>
    &nbsp;&nbsp;&nbsp;3.Will the client be able to safely and quickly use the playground at a specific time?(relation between user,playground,bronPlayground)<br>
