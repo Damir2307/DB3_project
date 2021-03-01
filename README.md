@@ -89,6 +89,10 @@ We wrote the backend only in php. We want something new and decided that we woul
 ## Phase-4
 
 
+#### E/R diagram
 <h1 align="center"> <img src="Mandarin-ER.png"> </h1>
+
+#### DDL-queries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DDL queries stored in the "data" folder.
 
 
