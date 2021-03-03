@@ -7,7 +7,7 @@
 
 <h2 align="center"> <a href="#"> Link </a> </h2>
 
-## Phase-2.About Project
+## About Project
 
 #### Opportunities
 
@@ -58,7 +58,7 @@ In the future, if the project is successful, we want to do it on android and ios
 
 We wrote the backend only in php. We want something new and decided that we would write in JavaEE.Why JavaEE,not php? While comparing the Java vs PHP performance, Java is clearly a winner as it is faster and efficient than PHP to write applications.To database we chose MySQL.Why MySQL?MySQL comes with the advantage of unmatched flexibility that facilitates efficient management of deeply embedded applications, even in gigantic data centers that stack tremendous amounts of mission-critical information.
 
-## Phase-3.Project Use-Case diagram and questions over the data
+## Project Use-Case diagram and questions over the data
 
 ### General questions:
    &nbsp;&nbsp;&nbsp;1.Can a customer leave a review and see reviews from other users?(relation between user,playground comments)<br>
@@ -86,7 +86,7 @@ We wrote the backend only in php. We want something new and decided that we woul
  &nbsp;&nbsp;&nbsp;https://docs.google.com/spreadsheets/d/1qF9-MWIKyzAC7-g0pHNyzp1sHV_JRet9VzpiMORbUsE/edit#gid=2085233290
  
 
-## Phase-4
+## Data modeling and database design
 
 
 #### E/R diagram
