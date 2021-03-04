@@ -4,7 +4,7 @@ CREATE TABLE users (
   userSurname VARCHAR(45) NOT NULL,
   userEmail VARCHAR(45) NOT NULL,
   password VARCHAR(45) NULL,
-  phone VARCHAR(45) NULL,
+  phone VARCHAR(45),
   PRIMARY KEY (userId, userEmail));
   
   --------------------------------------------------------
@@ -25,7 +25,7 @@ CREATE TABLE users (
   price INT NOT NULL,
   sectionAddress VARCHAR(150) NOT NULL,
   worktime VARCHAR(45) NOT NULL,
-  description VARCHAR(255) NOT NULL,
+  description VARCHAR(255),
   sporId INT NOT NULL,
   phone VARCHAR(45) NOT NULL,
   PRIMARY KEY (sectionId));
@@ -74,7 +74,7 @@ CREATE TABLE users (
   price INT NOT NULL,
   sportId INT NOT NULL,
   workTime VARCHAR(45) NOT NULL,
-  description VARCHAR(155) NOT NULL,
+  description VARCHAR(155),
   phone VARCHAR(45) NOT NULL,
   PRIMARY KEY (playgroundId));
   
@@ -86,7 +86,7 @@ CREATE TABLE users (
   height INT NOT NULL,
   cover BOOLEAN NOT NULL,
   roofType VARCHAR(45) NULL,
-  duw BOOLEAN NULL,
-  razdevalka BOOLEAN NULL,
-  parkovka BOOLEAN NULL,
-  tribuny BOOLEAN NULL);
+  duw BOOLEAN ,
+  razdevalka BOOLEAN ,
+  parkovka BOOLEAN,
+  tribuny BOOLEAN);
