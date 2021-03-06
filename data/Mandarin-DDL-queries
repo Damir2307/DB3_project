@@ -62,3 +62,27 @@ CREATE TABLE users (
   bronDate DATE NOT NULL,
   playgroundId INT NOT NULL,
   PRIMARY KEY (bronId));
+  
+  CREATE TABLE playground (
+  playgroundId INT NOT NULL AUTO_INCREMENT,
+  playgroundName VARCHAR(45) NOT NULL,
+  playgroundAddress VARCHAR(85) NOT NULL,
+  price INT NOT NULL,
+  sportId INT NOT NULL,
+  workTime VARCHAR(45) NOT NULL,
+  description VARCHAR(155),
+  phone VARCHAR(45),
+  PRIMARY KEY (playgroundId));
+  
+ ---------------------------------------------------------
+ 
+ CREATE TABLE specification (
+  playgroundId INT NOT NULL,
+  width INT NOT NULL,
+  height INT NOT NULL,
+  cover BOOLEAN NOT NULL,
+  roofType VARCHAR(45) NULL,
+  duw BOOLEAN ,
+  razdevalka BOOLEAN,
+  parkovka BOOLEAN ,
+  tribuny BOOLEAN);
