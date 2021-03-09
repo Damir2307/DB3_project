@@ -92,7 +92,7 @@ We wrote the backend only in php. We want something new and decided that we woul
 #### E/R diagram
 <h1 align="center"> <img src="Mandarin-ER.png"> </h1>
 
-#### DDL-queries
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DDL queries stored in the "data" folder.
+#### DDL-queries and DML-queries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DDL and DML queries stored in the "data" folder.
 
 
