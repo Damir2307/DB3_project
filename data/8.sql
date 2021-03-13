@@ -1,0 +1,1 @@
+select * from playground where description IS NOT NULL;

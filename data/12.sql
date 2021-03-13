@@ -1,0 +1,1 @@
+select playgroundId,phone from companyUser;
