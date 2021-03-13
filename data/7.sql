@@ -1,1 +1,0 @@
-insert into saved values(23,18);
