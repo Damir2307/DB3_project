@@ -1,1 +1,0 @@
-select * from playground p join specification s on(p.playgroundId=s.playgroundId);
