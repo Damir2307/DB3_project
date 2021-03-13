@@ -1,1 +1,0 @@
-select playgroundId,workTime from playground;
