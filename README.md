@@ -97,4 +97,4 @@ We wrote the backend only in php. We want something new and decided that we woul
 
 
 ## Phase-5
-15 queries and bonus stored in the "query" folder.
+SQL queries based on the aforementioned 15 questions and based on the chosen database stored in the "query" folder.
