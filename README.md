@@ -113,7 +113,8 @@ most of the Gestalt laws.For example: Grouping, closeness, icons.
 
 #### Connect with database
 We give the information in the configuration file web.xml
- ![alt text](https://github.com/Damir2307/DB3_project/blob/main/qwe.png)
+
+<h1 align="center"> <img src="qwe.png"> </h1>
+
+
  
-
-
