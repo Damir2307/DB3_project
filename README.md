@@ -106,10 +106,13 @@ SQL queries based on the aforementioned 15 questions and based on the chosen dat
 To create a project, we need " Eclipse Idea” to create a Java EE project
 Download Tomcat to run the project in the server.
 
+And download other components: JDBS <h1 align="center"> <img src="library.png"> </h1>
 
 #### Frontend
 We used delicate colors so that the client would rest when choosing and not think about the little things like:is there parking, shower, etc. Made the
 most of the Gestalt laws.For example: Grouping, closeness, icons.
+<h1 align="center"> <img src="page4.png"> </h1>
+
 
 #### Connect with database
 We give the information in the configuration file web.xml
