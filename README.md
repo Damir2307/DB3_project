@@ -98,3 +98,21 @@ We wrote the backend only in php. We want something new and decided that we woul
 
 ## Phase-5
 SQL queries based on the aforementioned 15 questions and based on the chosen database stored in the "query" folder.
+
+
+
+## User-interface implementation and connection
+#### Creating a project
+To create a project, we need " Eclipse Idea” to create a Java EE project
+Download Tomcat to run the project in the server.
+
+
+#### Frontend
+We used delicate colors so that the client would rest when choosing and not think about the little things like:is there parking, shower, etc. Made the
+most of the Gestalt laws.For example: Grouping, closeness, icons.
+
+#### Connect with database
+We give the information in the configuration file web.xml
+
+
+
