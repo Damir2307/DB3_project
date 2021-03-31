@@ -121,7 +121,6 @@ We use for database server Mysql
 <h1 align="center"> <img src="qwe.png"> </h1>
 
 ## Relational Algebra operators RA linear expression and its RA tree
-SQL queries based on the aforementioned 15 questions and based on the chosen database stored in the "query" folder.
 RA linear expression and its RA tree for 7 queries stored in the <a href="https://github.com/Damir2307/DB3_project/tree/main/RA">RA</a> folder.
 
 
