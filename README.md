@@ -96,11 +96,10 @@ We wrote the backend only in php. We want something new and decided that we woul
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DDL and DML queries stored in the "data" folder.
 
 
-## Phase-5
+## SQL queries 
 SQL queries based on the aforementioned 15 questions and based on the chosen database stored in the "query" folder.
 
 
-## Phase-6
 ## User-interface implementation and connection
 #### Creating a project
 To create a project, we need " Eclipse Idea” to create a Java EE project
@@ -120,6 +119,10 @@ We give the information in the configuration file web.xml
 We use for database server Mysql
 
 <h1 align="center"> <img src="qwe.png"> </h1>
+
+## Relational Algebra operators RA linear expression and its RA tree
+SQL queries based on the aforementioned 15 questions and based on the chosen database stored in the "query" folder.
+RA linear expression and its RA tree for 7 queries stored in the "RA" folder.
 
 
  
