@@ -123,5 +123,6 @@ We use for database server Mysql
 ## Relational Algebra operators RA linear expression and its RA tree
 RA linear expression and its RA tree for 7 queries stored in the <a href="https://github.com/Damir2307/DB3_project/tree/main/RA">RA</a> folder.
 
-
+##Calculating true cardinalities and plan evaluation
+All txt files stored in the <a href="https://github.com/Damir2307/DB3_project/tree/main/TC_PE">RA</a> folder
  
