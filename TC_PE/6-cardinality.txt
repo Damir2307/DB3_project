@@ -4,11 +4,11 @@ FROM sport,playground
 WHERE s.sportId=p.sportId AND sportName='Futboll';
 --2
 SELECT COUNT(*) 
-FROM playground JOIN sport ON s.sportId=p.sportId AND sportName='Futboll';
+FROM playground JOIN sport ON s.sportId=p.sportId Where sportName='Futboll';
 SELECT COUNT(*) 
-FROM sport JOIN playground ON s.sportId=p.sportId AND sportName='Futboll';
+FROM sport JOIN playground ON s.sportId=p.sportId Where sportName='Futboll';
 SELECT COUNT(*) 
-FROM sport JOIN playground ON s.sportId=p.sportId AND sportName='Futboll';
+FROM sport JOIN playground ON s.sportId=p.sportId Where sportName='Futboll';
 --3
 |T1` = 55|
 |T2` = 55|
