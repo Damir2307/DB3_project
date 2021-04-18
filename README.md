@@ -126,3 +126,5 @@ RA linear expression and its RA tree for 7 queries stored in the <a href="https:
 ## Calculating true cardinalities and plan evaluation
 All txt files stored in the <a href="https://github.com/Damir2307/DB3_project/tree/main/TC_PE">TC_PE</a> folder
  
+## Query speed
+All txt files stored in the <a href="https://github.com/Damir2307/DB3_project/tree/main/data/speed">data/speed</a> folder
